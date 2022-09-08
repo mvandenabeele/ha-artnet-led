@@ -5,5 +5,5 @@
     "dependencies": [],
     "codeowners": ["corb3000"],
     "requirements": ["pyartnet==0.8.3"],
-    "version": "0.0.1"
+    "version": "0.0.2"
   }
